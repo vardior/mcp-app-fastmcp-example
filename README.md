@@ -2,6 +2,9 @@
 
 An interactive counter UI demonstrating MCP Apps SDK with Python/FastMCP and React.
 
+<img width="886" height="824" alt="image" src="https://github.com/user-attachments/assets/d40c1e64-ad5b-4ea9-a7dd-aa2d104b9ee7" />
+
+
 ## Quick Start
 
 ```bash
