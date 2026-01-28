@@ -2,11 +2,6 @@
 
 An interactive counter UI demonstrating MCP Apps SDK with Python/FastMCP and React.
 
-## Prerequisites
-
-- [Node.js](https://nodejs.org/)
-- [uv](https://docs.astral.sh/uv/)
-
 ## Quick Start
 
 ```bash
@@ -51,8 +46,8 @@ For stdio transport: `uv run python server.py --stdio`
 ## Development
 
 ```bash
-npm run build:watch  # Terminal 1
-uv run python server.py  # Terminal 2
+npm run build  # Static app page
+uv run python server.py  # MCP server
 ```
 
 Port defaults to 3001. Override with `PORT=8080 uv run python server.py`.
